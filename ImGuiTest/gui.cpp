@@ -1,4 +1,4 @@
-#include "gui.h"
+#include "includes/gui.h"
 
 bool Gui::Initialize() {
 	if (!this->InitWindow()) return false;

@@ -21,9 +21,6 @@
     <ClCompile Include="ImGuiTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="includes\gui.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="libs\imgui-1.92.2b\imgui.cpp">
       <Filter>libs/imgui</Filter>
     </ClCompile>
@@ -44,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="libs\imgui-1.92.2b\backends\imgui_impl_dx11.cpp">
       <Filter>libs/imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="gui.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

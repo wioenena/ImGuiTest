@@ -131,8 +131,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="gui.cpp" />
     <ClCompile Include="ImGuiTest.cpp" />
-    <ClCompile Include="includes\gui.cpp" />
     <ClCompile Include="libs\imgui-1.92.2b\backends\imgui_impl_dx11.cpp" />
     <ClCompile Include="libs\imgui-1.92.2b\backends\imgui_impl_win32.cpp" />
     <ClCompile Include="libs\imgui-1.92.2b\imgui.cpp" />
